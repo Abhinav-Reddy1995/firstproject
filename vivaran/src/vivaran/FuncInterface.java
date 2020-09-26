@@ -7,6 +7,10 @@ interface FuncInterface
   
     // A non-abstract (or default) function 
     default void normalFun() 
+    
+    
+    
+    
     { 
        System.out.println("Hello"); 
     } 
