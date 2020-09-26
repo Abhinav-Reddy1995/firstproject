@@ -15,6 +15,8 @@ class Main
   
         Collections.sort(list); 
   
+        
+        //example
         System.out.println("Movies after sorting : "); 
         for (Movie movie: list) 
         { 
