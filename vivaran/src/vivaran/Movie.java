@@ -16,6 +16,8 @@ class Movie implements Comparable<Movie>
         return this.year - m.year; 
     } 
   
+    
+    //showing an example
     // Constructor 
     public Movie(String nm, double rt, int yr) 
     { 
